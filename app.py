@@ -32,14 +32,14 @@ def not_found(error):
 tasks = [
     {
         'id': 1,
-        'title': u'Buy groceries',
-        'description': u'Milk, Cheese, Pizza, Fruit, Tylenol',
+        'title': u'SwiftStack Migration',
+        'description': u'Complete Swift to SwiftStack migration',
         'done': False
     },
     {
         'id': 2,
-        'title': u'Learn Python',
-        'description': u'Need to find a good Python tutorial on the web',
+        'title': u'Nova CMS Drift',
+        'description': u'Bring the drift between Nova and CMS to zero',
         'done': False
     }
 ]
