@@ -32,9 +32,9 @@ def not_found(error):
 tasks = [
     {
         'id': 1,
-        'title': u'SwiftStack Migration',
-        'description': u'Complete Swift to SwiftStack migration',
-        'done': False
+        'title': u'CR to upadte FQDN in CCG12',
+        'description': u'Update HV FQDN in CCG12 to avoid CMS conflict',
+        'done': True
     },
     {
         'id': 2,
