@@ -8,8 +8,8 @@ auth = HTTPBasicAuth()
 
 @auth.get_password
 def get_password(username):
-    if username == 'snshekhar':
-        return 'flask'
+    if username == 'admin':
+        return 'admin'
     return None
 
 
