@@ -1,3 +1,4 @@
 tenant.ini
 test*
 .sync-config.cson
+.vscode
